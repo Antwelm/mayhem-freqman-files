@@ -1,0 +1,23 @@
+# Norwegian Repeaters
+# author: Antwelm
+# Source: NRRL (https://nrrl.no/tema/relestasjoner/)
+
+#format examples:
+f=468000000
+f=468000000,d=Single Freq
+f=468000000,m=AM,d=Single Freq AM
+f=468000000,m=NFM,d=Single Freq NFM
+f=468000000,m=WFM,d=Single Freq WFM
+f=468000000,m=AM,bw=DSB 9k,d=Single Freq AM DSB
+f=468000000,m=AM,bw=USB,d=Single Freq AM USB
+f=468000000,m=AM,bw=LSB,d=Single Freq AM LSB
+a=87000000,b=110000000
+a=87000000,b=110000000,m=AM,s=100kHz,d=AM radio search
+a=87000000,b=110000000,m=AM,bw=DSB 9k,s=250kHz,d=AM radio search LSB
+a=87000000,b=110000000,m=WFM,bw=200k,s=50kHz,d=WFM radio search s=50kHz
+r=430150000,t=430550000
+r=430150000,t=430550000,d=HAM radio
+r=430150000,t=430550000,m=AM,bw=DSB 9k,d=HAM radio
+l=430150000,t=430150000,m=SPEC,bw=150k,d=100k repeat
+l=430150000,t=430150000,m=SPEC,bw=1000k,d=1000k repeat
+l=430150000,t=431150000,m=SPEC,bw=1000k,d=1000k repeat txoffset 1MHz

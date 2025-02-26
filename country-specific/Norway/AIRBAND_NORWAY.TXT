@@ -1,0 +1,13 @@
+# Norwegian Airband Frequencies
+# author: Antwelm
+# sources: 
+
+# Polaris
+f=125700000,m=AM,bw=DSB 6k,d=POLARIS
+# ENZV - Sola, Stavanger
+f=119600000,m=AM,bw=DSB 6k,d=Sola Approach/Departure
+f=121750000,m=AM,bw=DSB 6k,d=Sola Ground
+f=118350000,m=AM,bw=DSB 6k,d=Sola Tower
+f=118500000,m=AM,bw=DSB 6k,d=Sola ARR
+f=126000000,m=AM,bw=DSB 6k,d=Sola ATIS
+# ENGM - Gardermoen, Oslo
