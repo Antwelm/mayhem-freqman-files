@@ -1,6 +1,6 @@
 # Norwegian Airband Frequencies
 # author: Antwelm
-# sources: avinor.no, liveatc.net, skyvector.com
+# sources: avinor.no, liveatc.net, skyvector.com, ourairports.com
 
 # Polaris West(?)
 f=125700000,m=AM,bw=DSB 6k,d=POLARIS
@@ -10,9 +10,16 @@ f=121750000,m=AM,bw=DSB 6k,d=Sola Ground
 f=118350000,m=AM,bw=DSB 6k,d=Sola Tower
 f=118500000,m=AM,bw=DSB 6k,d=Sola ARR
 f=126000000,m=AM,bw=DSB 6k,d=Sola ATIS
+
 # ENGM - Gardermoen, Oslo
 f=120100000,m=AM,bw=DSB 6k,d=Oslo TWR East
 f=118300000,m=AM,bw=DSB 6k,d=Oslo TWR West
+f=121925000,m=AM,bw=DSB 6k,d=Oslo Ground
+f=119975000,m=AM,bw=DSB 6k,d=Oslo APP
+f=131975000,m=AM,bw=DSB 6k,d=Oslo De-Ice/MISC
+f=29380000,m=AM,bw=DSB 6k,d=Oslo OPS (29.38MHz)
+f=131350000,m=AM,bw=DSB 6k,d=Oslo DIR
+
 # ENGM App/Polaris ACC
 f=122700000,m=AM,bw=DSB 6k,d=ENEG Tower Eggemoen
 f=134925000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 13
