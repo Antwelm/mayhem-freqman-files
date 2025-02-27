@@ -1,8 +1,8 @@
 # Norwegian Airband Frequencies
 # author: Antwelm
-# sources: 
+# sources: avinor.no, liveatc.net, skyvector.com
 
-# Polaris
+# Polaris West(?)
 f=125700000,m=AM,bw=DSB 6k,d=POLARIS
 # ENZV - Sola, Stavanger
 f=119600000,m=AM,bw=DSB 6k,d=Sola Approach/Departure
@@ -11,3 +11,13 @@ f=118350000,m=AM,bw=DSB 6k,d=Sola Tower
 f=118500000,m=AM,bw=DSB 6k,d=Sola ARR
 f=126000000,m=AM,bw=DSB 6k,d=Sola ATIS
 # ENGM - Gardermoen, Oslo
+f=120100000,m=AM,bw=DSB 6k,d=Oslo TWR East
+f=118300000,m=AM,bw=DSB 6k,d=Oslo TWR West
+# ENGM App/Polaris ACC
+f=122700000,m=AM,bw=DSB 6k,d=ENEG Tower Eggemoen
+f=134925000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 13
+f=125700000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 18
+f=125050000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 3
+f=127250000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 5
+f=124775000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 7
+f=134350000,m=AM,bw=DSB 6k,d=Polaris ACC Sector 8
